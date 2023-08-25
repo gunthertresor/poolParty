@@ -1,9 +1,11 @@
 #Pool Party
 Development team:
 
-1.https://github.com/Myk3rinos 
+1. https://github.com/gunthertresor
 <br>
-2. https://github.com/RRDOX
+2. https://github.com/Myk3rinos 
+<br>
+3. https://github.com/RRDOX
 
 
 This is a pool renting platform web developed with my leWagon team members. Our very first big project after just 7 weeks of learning. Alot more to come.
